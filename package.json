@@ -4,19 +4,19 @@
 	"description": "",
 	"version": "0.0.4",
 	"engines": {
-		"vscode": "^1.40.0"
+		"vscode": "^1.30.0"
 	},
 	"categories": [
 		"Other"
 	],
 	"activationEvents": [
-		"onCommand:extension.helloWorld"
+		"onCommand:extension.testName"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
 		"commands": [
 			{
-				"command": "extension.helloWorld",
+				"command": "extension.testName",
 				"title": "Hello World"
 			}
 		]
