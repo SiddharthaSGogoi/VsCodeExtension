@@ -23,7 +23,7 @@
 	},
 	"scripts": {
 		"vscode:prepublish": "npm run compile",
-		"webpack": "webpack --mode prod",
+		"webpack": "webpack --mode production",
 		"webpack-dev": "webpack --mode development --watch",
 		"compile": "tsc -p ./",
 		"watch": "tsc -watch -p ./",
