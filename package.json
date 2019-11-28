@@ -16,7 +16,7 @@
 	"contributes": {
 		"commands": [
 			{
-				"command": "extension.testName",
+				"command": "extension.helloWorld",
 				"title": "Hello World"
 			}
 		]
