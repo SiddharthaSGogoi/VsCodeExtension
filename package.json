@@ -2,7 +2,7 @@
 	"name": "test-vscode-extension",
 	"displayName": "test-vscode-extension",
 	"description": "",
-	"version": "0.0.6",
+	"version": "0.0.8",
 	"engines": {
 		"vscode": "^1.40.2"
 	},
